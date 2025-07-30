@@ -63,3 +63,9 @@ Body (JSON):
 
 DELETE /users/delete/{id}
 Deleta um usuário pelo ID.
+
+---
+
+📫 **Contato:**  
+[Pedro Beltrão]  
+[LinkedIn](https://www.linkedin.com/in/pedro-beltrão123/) • [GitHub](https://github.com/PedroBeltraoDev) • pedrobeltraodev@gmail.com
